@@ -60,5 +60,5 @@ For each benchmark, we have collected simulation results and used following metr
   
 
 ## Final Results
-<br>Simulation Results for all the prefetchers are saved in the `Simulation results/` folder. 
+<br>Simulation Results for all the prefetchers are saved in the `Simulation results` folder. 
 <br>[Link to Project Video](https://drive.google.com/drive/folders/1opKXc82D7cqDaRfMKIVn0LDO_W8VHMX-)
