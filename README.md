@@ -24,26 +24,26 @@ The following prefetchers have been implemented and integrated into ChampSim for
 ## Benchmarks
 
 We have used 20 SPEC2017 Benchmarks:
-600.perlbench_s-210B.txt
-602.gcc_s-734B.txt
-603.bwaves_s-3699B.txt
-605.mcf_s-665B.txt
-607.cactuBSSN_s-2421B.txt
-619.lbm_s-4268B.txt
-620.omnetpp_s-874B.txt
-621.wrf_s-575B.txt
-623.xalancbmk_s-700B.txt
-625.x264_s-18B.txt
-627.cam4_s-573B.txt
-628.pop2_s-17B.txt
-631.deepsjeng_s-928B.txt
-638.imagick_s-10316B.txt
-641.leela_s-800B.txt
-644.nab_s-5853B.txt
-648.exchange2_s-1699B.txt
-649.fotonik3d_s-1176B.txt
-654.roms_s-842B.txt
-657.xz_s-3167B_1.txt
+- `600.perlbench_s-210B.txt`
+- `602.gcc_s-734B.txt`
+- `603.bwaves_s-3699B.txt`
+- `605.mcf_s-665B.txt`
+- `607.cactuBSSN_s-2421B.txt`
+- `619.lbm_s-4268B.txt`
+- `620.omnetpp_s-874B.txt`
+- `621.wrf_s-575B.txt`
+- `623.xalancbmk_s-700B.txt`
+- `625.x264_s-18B.txt`
+- `627.cam4_s-573B.txt`
+- `628.pop2_s-17B.txt`
+- `631.deepsjeng_s-928B.txt`
+- `638.imagick_s-10316B.txt`
+- `641.leela_s-800B.txt`
+- `644.nab_s-5853B.txt`
+- `648.exchange2_s-1699B.txt`
+- `649.fotonik3d_s-1176B.txt`
+- `654.roms_s-842B.txt`
+- `657.xz_s-3167B_1.txt`
 
 These benchmarks are chosen to span a range of CPU and memory intensities, helping to expose strengths and weaknesses of each prefetcher.
 
